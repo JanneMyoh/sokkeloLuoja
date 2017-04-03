@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1491234853 source:d:\tempteamille\labgenerator\sokkeloluoja\src\labcel.cpp
+	"labCel.h"
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1491234602 d:\tempteamille\labgenerator\sokkeloluoja\include\labcel.h
+	<vector>
+
+1491234541 source:d:\tempteamille\labgenerator\sokkeloluoja\src\labgen.cpp
+	"labGen.h"
+	"labCel.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1491234578 d:\tempteamille\labgenerator\sokkeloluoja\include\labgen.h
+	<vector>
+
+1491234906 source:d:\tempteamille\labgenerator\sokkeloluoja\main.cpp
+	<iostream>
+	"labGen.h"
+
